@@ -1,0 +1,106 @@
+{
+  "nav": {
+    "home": "Home",
+    "features": "Why us",
+    "howItWorks": "How it works",
+    "pricing": "Pricing",
+    "testimonials": "Reviews",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Secure self-storage",
+    "title": "Your own container. Your own space.",
+    "subtitle": "Rent a secure storage container and keep your belongings safe on a guarded site — no long-term commitment, no hassle.",
+    "ctaPrimary": "Rent a container",
+    "ctaSecondary": "See how it works"
+  },
+  "stats": {
+    "containers": "Containers on site",
+    "containersValue": "50+",
+    "security": "Monitored",
+    "securityValue": "24/7",
+    "access": "Site access",
+    "accessValue": "7 days a week"
+  },
+  "features": {
+    "title": "Why people choose Méta Konténer",
+    "subtitle": "A simple, secure way to store what doesn't fit at home.",
+    "items": [
+      {
+        "title": "Secure site",
+        "description": "Fenced, monitored grounds with cameras and lighting, so your belongings stay safe day and night."
+      },
+      {
+        "title": "Flexible rental",
+        "description": "Rent for a month or a year. Scale up or down as your storage needs change, with no long contracts."
+      },
+      {
+        "title": "Easy access",
+        "description": "Drop by and pick up your things whenever the site is open — no appointment, no waiting on staff."
+      },
+      {
+        "title": "Weatherproof",
+        "description": "Steel containers keep your items dry and protected from rain, frost, and summer heat all year round."
+      },
+      {
+        "title": "Any size load",
+        "description": "From a few boxes to furniture and equipment — pick the container size that fits what you're storing."
+      },
+      {
+        "title": "Fair pricing",
+        "description": "Transparent monthly pricing with no hidden fees. Pay for the space you actually use."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "How it works",
+    "subtitle": "Renting a container takes three simple steps.",
+    "steps": [
+      {
+        "title": "Choose your container",
+        "description": "Tell us how much space you need and pick the container size that fits."
+      },
+      {
+        "title": "Sign and move in",
+        "description": "Sign a simple rental agreement and get your own key and site access."
+      },
+      {
+        "title": "Store with confidence",
+        "description": "Bring your belongings whenever you like — your container, your schedule."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What our renters say",
+    "items": [
+      {
+        "name": "Anna K.",
+        "text": "I needed space during a move and this was the easiest part of the whole process. Clean, secure, and the staff were helpful."
+      },
+      {
+        "name": "Gábor T.",
+        "text": "I store my workshop tools and seasonal stock here. Access is simple and I never worry about security."
+      },
+      {
+        "name": "Eszter M.",
+        "text": "Fair price, no surprises on the bill, and the site always feels well looked after."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready for your own container?",
+    "subtitle": "Get in touch and we'll help you find the right size and start renting today.",
+    "button": "Get a free quote"
+  },
+  "contact": {
+    "title": "Contact us",
+    "subtitle": "Questions about availability or pricing? Reach out and we'll get back to you quickly.",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Site address"
+  },
+  "footer": {
+    "tagline": "Secure container storage, on your terms.",
+    "rights": "All rights reserved."
+  }
+}

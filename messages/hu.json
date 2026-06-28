@@ -1,0 +1,106 @@
+{
+  "nav": {
+    "home": "Főoldal",
+    "features": "Miért mi",
+    "howItWorks": "Hogyan működik",
+    "pricing": "Árak",
+    "testimonials": "Vélemények",
+    "contact": "Kapcsolat"
+  },
+  "hero": {
+    "badge": "Biztonságos tárolás",
+    "title": "Saját konténer. Saját hely.",
+    "subtitle": "Bérelj egy biztonságos tárolókonténert, és tartsd a holmidat őrzött telephelyen — hosszú elköteleződés és felesleges bonyodalmak nélkül.",
+    "ctaPrimary": "Konténer bérlése",
+    "ctaSecondary": "Hogyan működik"
+  },
+  "stats": {
+    "containers": "Konténer a telephelyen",
+    "containersValue": "50+",
+    "security": "Felügyelet",
+    "securityValue": "24/7",
+    "access": "Nyitva",
+    "accessValue": "Hét napon át"
+  },
+  "features": {
+    "title": "Miért válasszák a Méta Kontenert",
+    "subtitle": "Egyszerű és biztonságos megoldás arra, ami otthon nem fér el.",
+    "items": [
+      {
+        "title": "Biztonságos telephely",
+        "description": "Kerített, kamerákkal és kivilágítással felügyelt terület, hogy a holmid éjjel-nappal biztonságban legyen."
+      },
+      {
+        "title": "Rugalmas bérlés",
+        "description": "Bérelj egy hónapra vagy egy évre. Igény szerint bővítsd vagy csökkentsd a tárhelyet, hosszú szerződés nélkül."
+      },
+      {
+        "title": "Egyszerű hozzáférés",
+        "description": "Nézz be, amikor a telephely nyitva van, és vidd vagy hozd a dolgaidat — előzetes bejelentkezés nélkül."
+      },
+      {
+        "title": "Időjárásálló",
+        "description": "Az acél konténerek egész évben száraz és védett helyet adnak az esőtől, fagytól és a nyári hőségtől."
+      },
+      {
+        "title": "Bármilyen méretű csomag",
+        "description": "Néhány doboztól a bútorokig és gépekig — válassz olyan méretű konténert, amilyen a tárolandó holmidhoz illik."
+      },
+      {
+        "title": "Tisztességes árazás",
+        "description": "Átlátható havi díjak rejtett költségek nélkül. Csak azért fizetsz, amit valóban használsz."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Hogyan működik",
+    "subtitle": "A bérlés három egyszerű lépésből áll.",
+    "steps": [
+      {
+        "title": "Válassz konténert",
+        "description": "Mondd el, mennyi helyre van szükséged, és válassz hozzá illő konténerméretet."
+      },
+      {
+        "title": "Aláírás és beköltözés",
+        "description": "Írj alá egy egyszerű bérleti szerződést, és kapod a saját kulcsodat, illetve a belépést a telephelyre."
+      },
+      {
+        "title": "Tárolj nyugodtan",
+        "description": "Hozd a holmidat, amikor szeretnéd — a konténer a tiéd, a beosztás is."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Mit mondanak bérlőink",
+    "items": [
+      {
+        "name": "Kovács Anna",
+        "text": "Egy költözés alatt volt szükségem helyre, és ez volt az egész folyamat legegyszerűbb része. Tiszta, biztonságos, a személyzet pedig segítőkész volt."
+      },
+      {
+        "name": "Tóth Gábor",
+        "text": "Itt tárolom a műhelyem eszközeit és a szezonális készletet. A hozzáférés egyszerű, a biztonság miatt sosem kell aggódnom."
+      },
+      {
+        "name": "Molnár Eszter",
+        "text": "Tisztességes ár, semmi meglepetés a számlán, és a telephely mindig rendben van."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Készen állsz a saját konténeredre?",
+    "subtitle": "Vedd fel velünk a kapcsolatot, és segítünk megtalálni a megfelelő méretet — még ma elindulhat a bérlés.",
+    "button": "Kérek ingyenes árajánlatot"
+  },
+  "contact": {
+    "title": "Kapcsolat",
+    "subtitle": "Kérdésed van a szabad helyekről vagy az árakról? Írj nekünk, gyorsan válaszolunk.",
+    "phone": "Telefon",
+    "email": "E-mail",
+    "address": "Telephely cím"
+  },
+  "footer": {
+    "tagline": "Biztonságos konténeres tárolás, a te feltételeid szerint.",
+    "rights": "Minden jog fenntartva."
+  }
+}
