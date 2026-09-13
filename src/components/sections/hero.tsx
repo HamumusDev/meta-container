@@ -1,22 +1,19 @@
 import { useTranslations } from "next-intl";
 import { Button } from "@/components/ui/button";
-import { Badge } from "@/components/ui/badge";
+import { CountUp } from "@/components/count-up";
 
 export function Hero() {
   const t = useTranslations("hero");
   const s = useTranslations("stats");
 
   return (
-    <section className="relative overflow-hidden border-b border-border/60">
+    <section id="home" className="relative overflow-hidden border-b border-border/60">
       <div
         className="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_top,_var(--tw-gradient-stops))] from-orange-500/10 via-transparent to-transparent"
         aria-hidden
       />
       <div className="mx-auto grid max-w-6xl gap-10 px-6 py-20 md:grid-cols-2 md:items-center md:py-28">
         <div className="space-y-6">
-          <Badge variant="secondary" className="rounded-full">
-            {t("badge")}
-          </Badge>
           <h1 className="text-4xl font-bold tracking-tight sm:text-5xl">
             {t("title")}
           </h1>
@@ -37,17 +34,19 @@ export function Hero() {
             </Button>
           </div>
 
-          <div className="grid grid-cols-3 gap-4 pt-8">
-            {[
-              [s("containersValue"), s("containers")],
-              [s("securityValue"), s("security")],
-              [s("accessValue"), s("access")],
-            ].map(([value, label]) => (
-              <div key={label} className="space-y-1">
-                <div className="text-2xl font-bold">{value}</div>
-                <div className="text-xs text-muted-foreground">{label}</div>
+          <div className="grid grid-cols-2 gap-4 pt-8">
+            <div className="space-y-1">
+              <div className="text-2xl font-bold">
+                <CountUp value={s("containersValue")} />
               </div>
-            ))}
+              <div className="text-xs text-muted-foreground">
+                {s("containers")}
+              </div>
+            </div>
+            <div className="space-y-1">
+              <div className="text-2xl font-bold">{s("accessValue")}</div>
+              <div className="text-xs text-muted-foreground">{s("access")}</div>
+            </div>
           </div>
         </div>
 

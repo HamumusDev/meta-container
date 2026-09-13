@@ -1,26 +1,24 @@
 {
   "nav": {
-    "home": "Főoldal",
+    "home": "Kezdőlap",
+    "containers": "Konténerek",
     "features": "Miért mi",
     "howItWorks": "Hogyan működik",
     "pricing": "Árak",
     "testimonials": "Vélemények",
-    "contact": "Kapcsolat"
+    "contact": "Kapcsolat / Ajánlatkérés"
   },
   "hero": {
-    "badge": "Biztonságos tárolás",
     "title": "Saját konténer. Saját hely.",
-    "subtitle": "Bérelj egy biztonságos tárolókonténert, és tartsd a holmidat őrzött telephelyen — hosszú elköteleződés és felesleges bonyodalmak nélkül.",
+    "subtitle": "Béreljen saját, zárható tárolókonténert őrzött telephelyünkön! Biztonságos helyet kínálunk értékei számára, rugalmas hozzáféréssel és egyszerű bérléssel.",
     "ctaPrimary": "Konténer bérlése",
     "ctaSecondary": "Hogyan működik"
   },
   "stats": {
     "containers": "Konténer a telephelyen",
-    "containersValue": "50+",
-    "security": "Felügyelet",
-    "securityValue": "24/7",
+    "containersValue": "40+",
     "access": "Nyitva",
-    "accessValue": "Hét napon át"
+    "accessValue": "0-24"
   },
   "features": {
     "title": "Miért válasszák a Méta Kontenert",

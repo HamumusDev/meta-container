@@ -16,9 +16,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Méta Konténer | Secure container storage",
+  title: "Méta Konténer | Biztonságos konténeres tárolás",
   description:
-    "Rent a secure storage container on a guarded site. Flexible, affordable, and easy to access.",
+    "Bérelj biztonságos tárolókonténert őrzött telephelyen. Rugalmas, megfizethető és könnyen elérhető.",
 };
 
 export function generateStaticParams() {

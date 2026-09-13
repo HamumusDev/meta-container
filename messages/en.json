@@ -1,26 +1,24 @@
 {
   "nav": {
     "home": "Home",
+    "containers": "Containers",
     "features": "Why us",
     "howItWorks": "How it works",
     "pricing": "Pricing",
     "testimonials": "Reviews",
-    "contact": "Contact"
+    "contact": "Contact / Get a quote"
   },
   "hero": {
-    "badge": "Secure self-storage",
     "title": "Your own container. Your own space.",
-    "subtitle": "Rent a secure storage container and keep your belongings safe on a guarded site — no long-term commitment, no hassle.",
+    "subtitle": "Rent your own lockable storage container on our guarded site! We offer a secure place for your valuables, with flexible access and simple rental.",
     "ctaPrimary": "Rent a container",
     "ctaSecondary": "See how it works"
   },
   "stats": {
     "containers": "Containers on site",
-    "containersValue": "50+",
-    "security": "Monitored",
-    "securityValue": "24/7",
-    "access": "Site access",
-    "accessValue": "7 days a week"
+    "containersValue": "40+",
+    "access": "Open",
+    "accessValue": "0-24"
   },
   "features": {
     "title": "Why people choose Méta Konténer",
