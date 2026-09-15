@@ -27,7 +27,7 @@ export function Features() {
             return (
               <Card key={item.title} className="border-border/60">
                 <CardHeader>
-                  <div className="mb-2 flex h-10 w-10 items-center justify-center rounded-lg bg-orange-500/10 text-orange-600">
+                  <div className="mb-2 flex h-10 w-10 items-center justify-center rounded-lg bg-[#2f74b0]/10 text-[#2f74b0]">
                     <Icon className="h-5 w-5" />
                   </div>
                   <CardTitle className="text-base">{item.title}</CardTitle>

@@ -14,24 +14,34 @@ export function Contact() {
 
         <div className="mt-10 grid gap-6 sm:grid-cols-3">
           <div className="flex items-start gap-3">
-            <Phone className="mt-0.5 h-5 w-5 text-orange-600" />
+            <Phone className="mt-0.5 h-5 w-5 text-[#2f74b0]" />
             <div>
               <div className="text-sm text-muted-foreground">{t("phone")}</div>
-              <div className="font-medium">+36 30 000 0000</div>
+              <a href="tel:+36309485973" className="font-medium hover:underline">
+                +36 30 948 5973
+              </a>
             </div>
           </div>
           <div className="flex items-start gap-3">
-            <Mail className="mt-0.5 h-5 w-5 text-orange-600" />
+            <Mail className="mt-0.5 h-5 w-5 text-[#2f74b0]" />
             <div>
               <div className="text-sm text-muted-foreground">{t("email")}</div>
-              <div className="font-medium">info@metakontener.hu</div>
+              <a
+                href="mailto:metakontener@gmail.com"
+                className="font-medium hover:underline"
+              >
+                metakontener@gmail.com
+              </a>
             </div>
           </div>
           <div className="flex items-start gap-3">
-            <MapPin className="mt-0.5 h-5 w-5 text-orange-600" />
+            <MapPin className="mt-0.5 h-5 w-5 text-[#2f74b0]" />
             <div>
               <div className="text-sm text-muted-foreground">{t("address")}</div>
-              <div className="font-medium">Budapest, Hungary</div>
+              <div className="font-medium">1194 Budapest, Méta u. 31.</div>
+              <div className="text-sm text-muted-foreground">
+                {t("directions")}
+              </div>
             </div>
           </div>
         </div>

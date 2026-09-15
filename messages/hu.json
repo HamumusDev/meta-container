@@ -5,12 +5,13 @@
     "features": "Miért mi",
     "howItWorks": "Hogyan működik",
     "pricing": "Árak",
+    "faq": "GYIK",
     "testimonials": "Vélemények",
     "contact": "Kapcsolat / Ajánlatkérés"
   },
   "hero": {
     "title": "Saját konténer. Saját hely.",
-    "subtitle": "Béreljen saját, zárható tárolókonténert őrzött telephelyünkön! Biztonságos helyet kínálunk értékei számára, rugalmas hozzáféréssel és egyszerű bérléssel.",
+    "subtitle": "Bérelj saját, zárható tárolókonténert a 19. kerületben található őrzött telephelyünkön! Biztonságos helyet kínálunk értékeid számára, rugalmas hozzáféréssel és egyszerű bérléssel.",
     "ctaPrimary": "Konténer bérlése",
     "ctaSecondary": "Hogyan működik"
   },
@@ -21,55 +22,124 @@
     "accessValue": "0-24"
   },
   "features": {
-    "title": "Miért válasszák a Méta Kontenert",
+    "title": "Miért válaszd a Méta Konténert?",
     "subtitle": "Egyszerű és biztonságos megoldás arra, ami otthon nem fér el.",
     "items": [
       {
         "title": "Biztonságos telephely",
-        "description": "Kerített, kamerákkal és kivilágítással felügyelt terület, hogy a holmid éjjel-nappal biztonságban legyen."
+        "description": "Körbekerített, kamerával megfigyelt és kivilágított telephely, ahol a tárolt dolgaid biztonságban vannak."
       },
       {
         "title": "Rugalmas bérlés",
-        "description": "Bérelj egy hónapra vagy egy évre. Igény szerint bővítsd vagy csökkentsd a tárhelyet, hosszú szerződés nélkül."
+        "description": "Bérelj konténert rövid vagy hosszabb időre, az igényeid szerint."
       },
       {
-        "title": "Egyszerű hozzáférés",
-        "description": "Nézz be, amikor a telephely nyitva van, és vidd vagy hozd a dolgaidat — előzetes bejelentkezés nélkül."
+        "title": "0–24 órás hozzáférés",
+        "description": "Bérlőink számára a telephely a nap 24 órájában elérhető, így akkor férhetsz hozzá a dolgaidhoz, amikor szükséged van rá."
       },
       {
-        "title": "Időjárásálló",
-        "description": "Az acél konténerek egész évben száraz és védett helyet adnak az esőtől, fagytól és a nyári hőségtől."
+        "title": "Időjárástól védett tárolás",
+        "description": "Az acél konténerek zárt tárolóhelyet biztosítanak, védelmet nyújtva a csapadék és az időjárás viszontagságai ellen."
       },
       {
-        "title": "Bármilyen méretű csomag",
-        "description": "Néhány doboztól a bútorokig és gépekig — válassz olyan méretű konténert, amilyen a tárolandó holmidhoz illik."
+        "title": "Különböző méretek",
+        "description": "20 és 40 lábas konténereink között megtalálhatod a tárolandó dolgaidhoz megfelelő méretet."
       },
       {
-        "title": "Tisztességes árazás",
-        "description": "Átlátható havi díjak rejtett költségek nélkül. Csak azért fizetsz, amit valóban használsz."
+        "title": "Átlátható árak",
+        "description": "Egyszerű és átlátható havi bérleti díjak, rejtett költségek nélkül."
       }
     ]
   },
   "howItWorks": {
-    "title": "Hogyan működik",
+    "title": "Hogyan működik?",
     "subtitle": "A bérlés három egyszerű lépésből áll.",
     "steps": [
       {
-        "title": "Válassz konténert",
-        "description": "Mondd el, mennyi helyre van szükséged, és válassz hozzá illő konténerméretet."
+        "title": "Válaszd ki a megfelelő méretet",
+        "description": "Mondd el, mekkora tárolóhelyre van szükséged, és segítünk kiválasztani az igényeidhez megfelelő konténert."
       },
       {
-        "title": "Aláírás és beköltözés",
-        "description": "Írj alá egy egyszerű bérleti szerződést, és kapod a saját kulcsodat, illetve a belépést a telephelyre."
+        "title": "Szerződés és beköltözés",
+        "description": "Írd alá a bérleti szerződést, majd hozd a saját lakatodat, és máris használatba veheted a konténert."
       },
       {
-        "title": "Tárolj nyugodtan",
-        "description": "Hozd a holmidat, amikor szeretnéd — a konténer a tiéd, a beosztás is."
+        "title": "Tárolj egyszerűen és biztonságosan",
+        "description": "Pakold be a dolgaidat, és használd a bérelt konténert akkor, amikor szükséged van rá. 0–24 órás hozzáférést biztosítunk, így bármikor be- és kipakolhatsz."
+      }
+    ]
+  },
+  "containers": {
+    "title": "Konténereink",
+    "subtitle": "Két különböző méretű konténerrel állunk rendelkezésedre, hogy megtaláld a számodra megfelelő tárolóhelyet.",
+    "sizeLabel": "Méret",
+    "items": [
+      {
+        "name": "20 lábas konténer",
+        "capacity": "kb. 15 m² tárolóhely",
+        "size": "kb. 6 × 2,4 m",
+        "description": "Ideális választás kisebb mennyiségű áru, bútorok, költözéshez szükséges holmik, szerszámok vagy egyéb tárgyak tárolására."
+      },
+      {
+        "name": "40 lábas konténer",
+        "capacity": "kb. 30 m² tárolóhely",
+        "size": "kb. 12 × 2,4 m",
+        "description": "Nagyobb mennyiségű áru, berendezés, bútor vagy vállalkozás készletének tárolására is megfelelő."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Árak",
+    "subtitle": "Egyszerű és átlátható árak, rejtett költségek nélkül.",
+    "plans": [
+      {
+        "name": "20 lábas konténer",
+        "size": "15 m²",
+        "price": "45 000 Ft",
+        "period": "+ ÁFA / hó"
+      },
+      {
+        "name": "40 lábas konténer",
+        "size": "30 m²",
+        "price": "55 000 Ft",
+        "period": "+ ÁFA / hó"
+      }
+    ],
+    "note": "Konténereinket magánszemélyek és vállalkozások számára egyaránt biztosítjuk.",
+    "termsTitle": "A bérlés feltételei",
+    "terms": ["1 havi kaució", "A lakatot a bérlő biztosítja"]
+  },
+  "faq": {
+    "title": "Gyakran Ismételt Kérdések",
+    "items": [
+      {
+        "question": "Ki bérelhet konténert?",
+        "answer": "Magánszemélyek és vállalkozások egyaránt. Vállalkozások számára az ÁFA külön fizetendő."
+      },
+      {
+        "question": "Mekkora konténerek közül lehet választani?",
+        "answer": "Bérlőink 20 és 40 lábas konténerek közül választhatnak."
+      },
+      {
+        "question": "Mennyi a bérleti díj?",
+        "answer": "45 000 Ft + ÁFA/hó a 20 lábas, illetve 55 000 Ft + ÁFA/hó a 40 lábas konténer."
+      },
+      {
+        "question": "Van kaució?",
+        "answer": "Igen, 1 havi kaució szükséges a bérlés megkezdéséhez."
+      },
+      {
+        "question": "Mikor férhetek hozzá a konténerhez?",
+        "answer": "Bérlőink számára a telephely 0–24 órában elérhető."
+      },
+      {
+        "question": "Ki biztosítja a lakatot?",
+        "answer": "A konténer zárásához a bérlő saját lakatot használ."
       }
     ]
   },
   "testimonials": {
-    "title": "Mit mondanak bérlőink",
+    "title": "Mit mondanak a bérlőink",
     "items": [
       {
         "name": "Kovács Anna",
@@ -92,10 +162,11 @@
   },
   "contact": {
     "title": "Kapcsolat",
-    "subtitle": "Kérdésed van a szabad helyekről vagy az árakról? Írj nekünk, gyorsan válaszolunk.",
-    "phone": "Telefon",
+    "subtitle": "Kérdésed van? Írj nekünk, gyorsan válaszolunk.",
+    "phone": "Telefonszám",
     "email": "E-mail",
-    "address": "Telephely cím"
+    "address": "Telephelyi cím",
+    "directions": "(sorompó előtt balra)"
   },
   "footer": {
     "tagline": "Biztonságos konténeres tárolás, a te feltételeid szerint.",

@@ -15,7 +15,7 @@ export function Testimonials() {
           {items.map((item) => (
             <Card key={item.name} className="border-border/60">
               <CardContent className="space-y-4 pt-6">
-                <div className="flex gap-1 text-orange-500">
+                <div className="flex gap-1 text-[#2f74b0]">
                   {Array.from({ length: 5 }).map((_, i) => (
                     <Star key={i} className="h-4 w-4 fill-current" />
                   ))}

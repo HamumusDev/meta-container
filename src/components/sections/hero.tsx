@@ -1,6 +1,7 @@
 import { useTranslations } from "next-intl";
 import { Button } from "@/components/ui/button";
 import { CountUp } from "@/components/count-up";
+import { ContainerIllustration } from "@/components/container-illustration";
 
 export function Hero() {
   const t = useTranslations("hero");
@@ -50,16 +51,8 @@ export function Hero() {
           </div>
         </div>
 
-        <div className="relative aspect-square w-full max-w-md justify-self-center rounded-2xl border border-border/60 bg-gradient-to-br from-orange-500/15 via-background to-background shadow-xl md:justify-self-end">
-          <div className="absolute inset-6 grid grid-cols-3 grid-rows-3 gap-3">
-            {Array.from({ length: 9 }).map((_, i) => (
-              <div
-                key={i}
-                className="rounded-lg border border-border/60 bg-background/60"
-                style={{ opacity: 0.5 + (i % 3) * 0.15 }}
-              />
-            ))}
-          </div>
+        <div className="relative aspect-square w-full max-w-md justify-self-center rounded-2xl border border-border/60 bg-gradient-to-br from-sky-500/15 via-background to-background shadow-xl md:justify-self-end">
+          <ContainerIllustration className="absolute inset-0 h-full w-full p-8" />
         </div>
       </div>
     </section>

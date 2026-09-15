@@ -5,12 +5,13 @@
     "features": "Why us",
     "howItWorks": "How it works",
     "pricing": "Pricing",
+    "faq": "FAQ",
     "testimonials": "Reviews",
     "contact": "Contact / Get a quote"
   },
   "hero": {
     "title": "Your own container. Your own space.",
-    "subtitle": "Rent your own lockable storage container on our guarded site! We offer a secure place for your valuables, with flexible access and simple rental.",
+    "subtitle": "Rent your own lockable storage container at our guarded site in District 19, Budapest! We offer a secure place for your valuables, with flexible access and simple rental.",
     "ctaPrimary": "Rent a container",
     "ctaSecondary": "See how it works"
   },
@@ -21,50 +22,119 @@
     "accessValue": "0-24"
   },
   "features": {
-    "title": "Why people choose Méta Konténer",
+    "title": "Why choose Méta Konténer?",
     "subtitle": "A simple, secure way to store what doesn't fit at home.",
     "items": [
       {
         "title": "Secure site",
-        "description": "Fenced, monitored grounds with cameras and lighting, so your belongings stay safe day and night."
+        "description": "Fenced, camera-monitored and well-lit site where your stored items stay safe."
       },
       {
         "title": "Flexible rental",
-        "description": "Rent for a month or a year. Scale up or down as your storage needs change, with no long contracts."
+        "description": "Rent a container for a short or longer term, whatever your needs require."
       },
       {
-        "title": "Easy access",
-        "description": "Drop by and pick up your things whenever the site is open — no appointment, no waiting on staff."
+        "title": "24/7 access",
+        "description": "For our renters the site is available around the clock, so you can reach your things whenever you need them."
       },
       {
-        "title": "Weatherproof",
-        "description": "Steel containers keep your items dry and protected from rain, frost, and summer heat all year round."
+        "title": "Weather-protected storage",
+        "description": "Steel containers provide enclosed storage, protecting against rain and the elements."
       },
       {
-        "title": "Any size load",
-        "description": "From a few boxes to furniture and equipment — pick the container size that fits what you're storing."
+        "title": "Different sizes",
+        "description": "Choose from our 20- and 40-foot containers to find the right size for what you're storing."
       },
       {
-        "title": "Fair pricing",
-        "description": "Transparent monthly pricing with no hidden fees. Pay for the space you actually use."
+        "title": "Transparent pricing",
+        "description": "Simple, transparent monthly rental fees with no hidden costs."
       }
     ]
   },
   "howItWorks": {
-    "title": "How it works",
+    "title": "How does it work?",
     "subtitle": "Renting a container takes three simple steps.",
     "steps": [
       {
-        "title": "Choose your container",
-        "description": "Tell us how much space you need and pick the container size that fits."
+        "title": "Choose the right size",
+        "description": "Tell us how much storage space you need, and we'll help you pick the container that fits your needs."
       },
       {
-        "title": "Sign and move in",
-        "description": "Sign a simple rental agreement and get your own key and site access."
+        "title": "Contract and move-in",
+        "description": "Sign the rental agreement, bring your own padlock, and you can start using the container right away."
       },
       {
-        "title": "Store with confidence",
-        "description": "Bring your belongings whenever you like — your container, your schedule."
+        "title": "Store simply and securely",
+        "description": "Pack your things and use your rented container whenever you need it. We provide 24/7 access, so you can load and unload anytime."
+      }
+    ]
+  },
+  "containers": {
+    "title": "Our containers",
+    "subtitle": "We offer two different container sizes, so you can find the storage space that's right for you.",
+    "sizeLabel": "Dimensions",
+    "items": [
+      {
+        "name": "20-foot container",
+        "capacity": "approx. 15 m² of storage",
+        "size": "approx. 6 × 2.4 m",
+        "description": "An ideal choice for storing smaller quantities of goods, furniture, moving items, tools or other belongings."
+      },
+      {
+        "name": "40-foot container",
+        "capacity": "approx. 30 m² of storage",
+        "size": "approx. 12 × 2.4 m",
+        "description": "Also suitable for storing larger quantities of goods, equipment, furniture or a business's stock."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "subtitle": "Simple, transparent pricing with no hidden costs.",
+    "plans": [
+      {
+        "name": "20-foot container",
+        "size": "15 m²",
+        "price": "45 000 Ft",
+        "period": "+ VAT / month"
+      },
+      {
+        "name": "40-foot container",
+        "size": "30 m²",
+        "price": "55 000 Ft",
+        "period": "+ VAT / month"
+      }
+    ],
+    "note": "We provide our containers for both individuals and businesses.",
+    "termsTitle": "Rental terms",
+    "terms": ["One month's deposit", "The renter provides the padlock"]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "Who can rent a container?",
+        "answer": "Both individuals and businesses. For businesses, VAT is payable separately."
+      },
+      {
+        "question": "What container sizes can I choose from?",
+        "answer": "Our renters can choose between 20- and 40-foot containers."
+      },
+      {
+        "question": "How much is the rental fee?",
+        "answer": "45 000 Ft + VAT/month for the 20-foot and 55 000 Ft + VAT/month for the 40-foot container."
+      },
+      {
+        "question": "Is there a deposit?",
+        "answer": "Yes, one month's deposit is required to start the rental."
+      },
+      {
+        "question": "When can I access my container?",
+        "answer": "For our renters the site is available 24/7."
+      },
+      {
+        "question": "Who provides the padlock?",
+        "answer": "The renter uses their own padlock to lock the container."
       }
     ]
   },
@@ -92,10 +162,11 @@
   },
   "contact": {
     "title": "Contact us",
-    "subtitle": "Questions about availability or pricing? Reach out and we'll get back to you quickly.",
-    "phone": "Phone",
+    "subtitle": "Have a question? Write to us, we reply quickly.",
+    "phone": "Phone number",
     "email": "Email",
-    "address": "Site address"
+    "address": "Site address",
+    "directions": "(before the barrier, on the left)"
   },
   "footer": {
     "tagline": "Secure container storage, on your terms.",
