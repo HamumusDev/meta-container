@@ -4,7 +4,11 @@ import { Star } from "lucide-react";
 
 export function Testimonials() {
   const t = useTranslations("testimonials");
-  const items = t.raw("items") as { name: string; text: string }[];
+  const items = t.raw("items") as {
+    name: string;
+    text: string;
+    rating: number;
+  }[];
 
   return (
     <section id="testimonials" className="border-b border-border/60 py-20">
@@ -17,7 +21,14 @@ export function Testimonials() {
               <CardContent className="space-y-4 pt-6">
                 <div className="flex gap-1 text-[#2f74b0]">
                   {Array.from({ length: 5 }).map((_, i) => (
-                    <Star key={i} className="h-4 w-4 fill-current" />
+                    <Star
+                      key={i}
+                      className={
+                        i < item.rating
+                          ? "h-4 w-4 fill-current"
+                          : "h-4 w-4 fill-none text-muted-foreground/30"
+                      }
+                    />
                   ))}
                 </div>
                 <p className="text-sm text-muted-foreground">

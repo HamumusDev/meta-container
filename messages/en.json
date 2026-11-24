@@ -150,16 +150,19 @@
     "title": "What our renters say",
     "items": [
       {
-        "name": "Anna K.",
-        "text": "I needed space during a move and this was the easiest part of the whole process. Clean, secure, and the staff were helpful."
+        "name": "V. Pál",
+        "rating": 5,
+        "text": "A large, easily accessible, camera-monitored and guarded site that's great for loading, with phone support always available. Fair prices and friendly, multilingual service. We'll definitely keep using them, and we happily recommend them to others too."
       },
       {
-        "name": "Gábor T.",
-        "text": "I store my workshop tools and seasonal stock here. Access is simple and I never worry about security."
+        "name": "Cs. Boldizsár",
+        "rating": 5,
+        "text": "Reliable, flexible rental option — I recommend it to everyone!"
       },
       {
-        "name": "Eszter M.",
-        "text": "Fair price, no surprises on the bill, and the site always feels well looked after."
+        "name": "I. Gábor",
+        "rating": 4,
+        "text": "Decent containers, 24/7 availability."
       }
     ]
   },

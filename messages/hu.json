@@ -150,16 +150,19 @@
     "title": "Mit mondanak a bérlőink",
     "items": [
       {
-        "name": "Kovács Anna",
-        "text": "Egy költözés alatt volt szükségem helyre, és ez volt az egész folyamat legegyszerűbb része. Tiszta, biztonságos, a személyzet pedig segítőkész volt."
+        "name": "V. Pál",
+        "rating": 5,
+        "text": "Rakodás szempontjából nagy, könnyen megközelíthető, kamerákkal megfigyelt, őrzött terület, állandóan elérhető telefonos ügyelettel. Jó áron és több nyelvű, kedves kiszolgálással. Szolgáltatásukat biztos, hogy a továbbiakban is igénybe fogjuk venni, amit másoknak is nyugodt szívvel ajánlunk."
       },
       {
-        "name": "Tóth Gábor",
-        "text": "Itt tárolom a műhelyem eszközeit és a szezonális készletet. A hozzáférés egyszerű, a biztonság miatt sosem kell aggódnom."
+        "name": "Cs. Boldizsár",
+        "rating": 5,
+        "text": "Megbízható, rugalmas bérlési lehetőség, ajánlom mindenkinek!"
       },
       {
-        "name": "Molnár Eszter",
-        "text": "Tisztességes ár, semmi meglepetés a számlán, és a telephely mindig rendben van."
+        "name": "I. Gábor",
+        "rating": 4,
+        "text": "Korrekt konténerek, 0-24 elérhetőség."
       }
     ]
   },
