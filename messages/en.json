@@ -133,6 +133,10 @@
         "answer": "Yes, one month's deposit is required to start the rental, which is refunded at the end of the rental provided the terms of the rental agreement are met."
       },
       {
+        "question": "How is payment made?",
+        "answer": "You can pay the rental fee in cash or by bank transfer, always on the monthly anniversary of the day the contract was signed."
+      },
+      {
         "question": "Is there electricity in the containers?",
         "answer": "Yes, our containers have an electricity supply. Its use is billed on top of the rental fee, based on actual consumption."
       },

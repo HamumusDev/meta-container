@@ -133,6 +133,10 @@
         "answer": "Igen, 1 havi kaució szükséges a bérlés megkezdéséhez, mely a bérlés végén visszajár a bérleti szerződésben foglaltak betartása esetén."
       },
       {
+        "question": "Hogyan történik a fizetés?",
+        "answer": "A bérleti díjat készpénzben, vagy banki átutalással is kiegyenlítheted, mindig a szerződéskötés napjának megfelelő fordulónapon."
+      },
+      {
         "question": "Van áram a konténerekben?",
         "answer": "Igen, konténereinkben van áramellátás. A használata a bérleti díjon felül, a tényleges fogyasztás alapján kerül elszámolásra."
       },
