@@ -7,16 +7,16 @@
     "pricing": "Árak",
     "faq": "GYIK",
     "testimonials": "Vélemények",
-    "contact": "Kapcsolat / Ajánlatkérés"
+    "contact": "Kapcsolat"
   },
   "hero": {
-    "title": "Saját konténer. Saját hely.",
-    "subtitle": "Bérelj saját, zárható tárolókonténert a 19. kerületben található őrzött telephelyünkön! Biztonságos helyet kínálunk értékeid számára, rugalmas hozzáféréssel és egyszerű bérléssel.",
+    "title": "Több hely. Rugalmas tárolás.",
+    "subtitle": "Bérelj saját, zárható raktárkonténert a 19. kerületben található őrzött telephelyünkön! Biztonságos helyet kínálunk értékeid számára, rugalmas hozzáféréssel és egyszerű bérléssel.",
     "ctaPrimary": "Konténer bérlése",
     "ctaSecondary": "Hogyan működik"
   },
   "stats": {
-    "containers": "Konténer a telephelyen",
+    "containers": "elégedett bérlő",
     "containersValue": "40+",
     "access": "Nyitva",
     "accessValue": "0-24"
@@ -38,8 +38,8 @@
         "description": "Bérlőink számára a telephely a nap 24 órájában elérhető, így akkor férhetsz hozzá a dolgaidhoz, amikor szükséged van rá."
       },
       {
-        "title": "Időjárástól védett tárolás",
-        "description": "Az acél konténerek zárt tárolóhelyet biztosítanak, védelmet nyújtva a csapadék és az időjárás viszontagságai ellen."
+        "title": "Kényelmes parkolás és rakodás",
+        "description": "Bőséges parkoló- és rakodótér áll rendelkezésre a telephelyen, így akár teherautóval is könnyedén behajthatsz közvetlenül a konténeredhez."
       },
       {
         "title": "Különböző méretek",
@@ -96,37 +96,45 @@
         "name": "20 lábas konténer",
         "size": "15 m²",
         "price": "45 000 Ft",
-        "period": "+ ÁFA / hó"
+        "period": "/ hó"
       },
       {
         "name": "40 lábas konténer",
         "size": "30 m²",
         "price": "55 000 Ft",
-        "period": "+ ÁFA / hó"
+        "period": "/ hó"
       }
     ],
-    "note": "Konténereinket magánszemélyek és vállalkozások számára egyaránt biztosítjuk.",
+    "note": "Konténereinket magánszemélyek és vállalkozások számára egyaránt biztosítjuk. A bérleti díjak magánszemélyek részére bruttó összegek, azokat ÁFA már nem terheli. Céges bérlés esetén a bérleti díjon felül ÁFA fizetendő.",
     "termsTitle": "A bérlés feltételei",
-    "terms": ["1 havi kaució", "A lakatot a bérlő biztosítja"]
+    "terms": [
+      "1 havi kaució és az első havi bérleti díj",
+      "bérleti szerződés",
+      "saját lakat"
+    ]
   },
   "faq": {
     "title": "Gyakran Ismételt Kérdések",
     "items": [
       {
         "question": "Ki bérelhet konténert?",
-        "answer": "Magánszemélyek és vállalkozások egyaránt. Vállalkozások számára az ÁFA külön fizetendő."
+        "answer": "Magánszemélyek és cégek egyaránt. Céges bérlés esetén az ÁFA a bérleti díjon felül fizetendő. Magánszemély esetén a megjelölt árak bruttó árak."
       },
       {
         "question": "Mekkora konténerek közül lehet választani?",
-        "answer": "Bérlőink 20 és 40 lábas konténerek közül választhatnak."
+        "answer": "Bérlőink kétféle méret közül választhatnak. A 20 lábas raktárkonténer kb. 15 m²-nek felel meg, a 40 lábas raktárkonténer kb. 30 m²-nek."
       },
       {
         "question": "Mennyi a bérleti díj?",
-        "answer": "45 000 Ft + ÁFA/hó a 20 lábas, illetve 55 000 Ft + ÁFA/hó a 40 lábas konténer."
+        "answer": "20 lábas raktárkonténer esetén a bérleti díj 45.000 Ft/hónap, 40 lábas raktárkonténer esetén a bérleti díj 55.000 Ft/hónap."
       },
       {
         "question": "Van kaució?",
-        "answer": "Igen, 1 havi kaució szükséges a bérlés megkezdéséhez."
+        "answer": "Igen, 1 havi kaució szükséges a bérlés megkezdéséhez, mely a bérlés végén visszajár a bérleti szerződésben foglaltak betartása esetén."
+      },
+      {
+        "question": "Van áram a konténerekben?",
+        "answer": "Igen, konténereinkben van áramellátás. A használata a bérleti díjon felül, a tényleges fogyasztás alapján kerül elszámolásra."
       },
       {
         "question": "Mikor férhetek hozzá a konténerhez?",
@@ -157,19 +165,17 @@
   },
   "cta": {
     "title": "Készen állsz a saját konténeredre?",
-    "subtitle": "Vedd fel velünk a kapcsolatot, és segítünk megtalálni a megfelelő méretet — még ma elindulhat a bérlés.",
-    "button": "Kérek ingyenes árajánlatot"
+    "subtitle": "Vedd fel velünk a kapcsolatot, és segítünk megtalálni a megfelelő méretet — még ma elindulhat a bérlés."
   },
   "contact": {
     "title": "Kapcsolat",
-    "subtitle": "Kérdésed van? Írj nekünk, gyorsan válaszolunk.",
+    "subtitle": "Kérdésed van? Keress minket telefonon, vagy e-mailben, gyorsan válaszolunk.",
     "phone": "Telefonszám",
     "email": "E-mail",
-    "address": "Telephelyi cím",
-    "directions": "(sorompó előtt balra)"
+    "address": "Telephelyi cím"
   },
   "footer": {
-    "tagline": "Biztonságos konténeres tárolás, a te feltételeid szerint.",
+    "tagline": "Több hely, nagyobb szabadság.",
     "rights": "Minden jog fenntartva."
   }
 }

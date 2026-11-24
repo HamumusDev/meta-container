@@ -5,9 +5,9 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
-import { Shield, Calendar, Clock, CloudRain, Boxes, Wallet } from "lucide-react";
+import { Shield, Calendar, Clock, Truck, Boxes, Wallet } from "lucide-react";
 
-const icons = [Shield, Calendar, Clock, CloudRain, Boxes, Wallet];
+const icons = [Shield, Calendar, Clock, Truck, Boxes, Wallet];
 
 export function Features() {
   const t = useTranslations("features");

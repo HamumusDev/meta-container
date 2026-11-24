@@ -17,8 +17,17 @@ export function Contact() {
             <Phone className="mt-0.5 h-5 w-5 text-[#2f74b0]" />
             <div>
               <div className="text-sm text-muted-foreground">{t("phone")}</div>
-              <a href="tel:+36309485973" className="font-medium hover:underline">
+              <a
+                href="tel:+36309485973"
+                className="block font-medium hover:underline"
+              >
                 +36 30 948 5973
+              </a>
+              <a
+                href="tel:+36305234845"
+                className="block font-medium hover:underline"
+              >
+                +36 30 523 4845
               </a>
             </div>
           </div>
@@ -39,9 +48,6 @@ export function Contact() {
             <div>
               <div className="text-sm text-muted-foreground">{t("address")}</div>
               <div className="font-medium">1194 Budapest, Méta u. 31.</div>
-              <div className="text-sm text-muted-foreground">
-                {t("directions")}
-              </div>
             </div>
           </div>
         </div>

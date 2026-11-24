@@ -1,7 +1,7 @@
+import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { Button } from "@/components/ui/button";
 import { CountUp } from "@/components/count-up";
-import { ContainerIllustration } from "@/components/container-illustration";
 
 export function Hero() {
   const t = useTranslations("hero");
@@ -52,7 +52,14 @@ export function Hero() {
         </div>
 
         <div className="relative aspect-square w-full max-w-md justify-self-center rounded-2xl border border-border/60 bg-gradient-to-br from-sky-500/15 via-background to-background shadow-xl md:justify-self-end">
-          <ContainerIllustration className="absolute inset-0 h-full w-full p-8" />
+          <Image
+            src="/meta-kontener-hero.png"
+            alt="Méta Konténer"
+            fill
+            sizes="(max-width: 768px) 100vw, 400px"
+            priority
+            className="object-contain p-8"
+          />
         </div>
       </div>
     </section>
