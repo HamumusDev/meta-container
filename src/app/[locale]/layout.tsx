@@ -15,10 +15,27 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+const siteTitle = "Méta Konténer | Raktárkonténerek Budapesten";
+const siteDescription =
+  "Bérelj saját, zárható raktárkonténert 0-24 hozzáféréssel. Biztonságos, átlátható és rugalmas megoldás.";
+
 export const metadata: Metadata = {
-  title: "Méta Konténer | Biztonságos konténeres tárolás",
-  description:
-    "Bérelj biztonságos tárolókonténert őrzött telephelyen. Rugalmas, megfizethető és könnyen elérhető.",
+  metadataBase: new URL("https://metakontener.hu"),
+  title: siteTitle,
+  description: siteDescription,
+  openGraph: {
+    title: siteTitle,
+    description: siteDescription,
+    type: "website",
+    locale: "hu_HU",
+    siteName: "Méta Konténer",
+    url: "https://metakontener.hu",
+  },
+  twitter: {
+    card: "summary",
+    title: siteTitle,
+    description: siteDescription,
+  },
 };
 
 export function generateStaticParams() {
